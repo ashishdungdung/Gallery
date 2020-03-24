@@ -114,4 +114,4 @@ Don't forget that if you uninstall any paid app within 2 hours, you will automat
 </div>
 
 
-Fork of Simple Gallery PRO
+#Fork of Simple Gallery PRO
