@@ -1,11 +1,11 @@
-# Simple Gallery
+# Gallery
 
 <img alt="Logo" src="fastlane/metadata/android/en-US/images/icon.png" width="120" />
 
 Simple Gallery Pro is a highly customizable lightweight gallery loved by millions of people for its great user experience. Organize and edit your photos, recover deleted files with the recycle bin, protect & hide files and easily view a huge variety of different photo and video formats including RAW, SVG, GIF, panoramic and much more.
 
 -------------------------------------------------
-SIMPLE GALLERY PRO – FEATURES
+GALLERY – FEATURES
 -------------------------------------------------
 
 • A beautiful modern gallery with no ads or popups
@@ -112,3 +112,6 @@ Don't forget that if you uninstall any paid app within 2 hours, you will automat
 <img alt="App image" src="fastlane/metadata/android/en-US/images/phoneScreenshots/app_2.jpg" width="30%">
 <img alt="App image" src="fastlane/metadata/android/en-US/images/phoneScreenshots/app_3.jpg" width="30%">
 </div>
+
+
+Fork of Simple Gallery PRO
